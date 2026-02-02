@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Expert;Node.js+Developer;2%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Frontend+Developer;Node.js+Developer;2%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-kondrolladinesh.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kondrolladinesh.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kondrolladinesh.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kondrolladinesh.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kondrolla--dinesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kondrolla-dinesh)
   [![Email](https://img.shields.io/badge/Email-dineshreddykondrolla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshreddykondrolla@gmail.com)
 
@@ -74,7 +74,6 @@ const dinesh = {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Testing & Tools
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -126,15 +125,10 @@ Real-time mechanic booking platform with authentication, geolocation services, a
 
 Healthcare web app for appointment booking and medical records management.
 
-**Tech:** React, Node.js, Express, Firebase, Firestore
+**Tech:** React, Node.js, Express, Firebase
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kondrolladinesh&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=EC4899&point=FFFFFF)
-
----
 
 ## 💡 Random Dev Quote
 
