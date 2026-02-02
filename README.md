@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+Expert;Node.js+Developer;2%2B+Years+of+Experience;Problem+Solver+%26+Tech+Enthusiast)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-kondrolladinesh.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kondrolladinesh.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kondrolladinesh.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kondrolladinesh.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kondrolla--dinesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kondrolla-dinesh)
   [![Email](https://img.shields.io/badge/Email-dineshreddykondrolla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshreddykondrolla@gmail.com)
 
